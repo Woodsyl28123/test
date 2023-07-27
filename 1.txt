@@ -26,3 +26,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Woodsyl28123/test.git
 git push -u origin main
+验证链接
+ ssh -T git@github.com
